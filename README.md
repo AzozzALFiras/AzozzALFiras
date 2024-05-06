@@ -6,9 +6,37 @@ Software Engineer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap, jQuery, PHP, Laravel, Composer,  
-Git, Objective C, Swift, Theos, Flutter, Reverse Engineering, Nodejs, Nextjs, Reactjs, Angular, Mysql, Sql, ASP.net 
 
+Frontend Development:
+HTML
+CSS
+Bootstrap
+JavaScript
+jQuery
+React.js
+Angular
+Next.js
+Flutter
+
+Backend Development:
+PHP
+Laravel
+Node.js
+ASP.net
+MySQL
+SQL
+Api
+
+Mobile Development:
+Objective C
+Swift
+Flutter
+
+Tools & Other Skills:
+Git
+Composer
+Theos
+Reverse Engineering
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AzozzALFiras&hide=contribs&show_icons=true&theme=dark)
