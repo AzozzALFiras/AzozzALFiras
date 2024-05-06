@@ -8,7 +8,7 @@
 
 <header>
   <h1>Azozz ALFiras</h1>
-  <h2>Software Engineer</h2>
+  <p>Passionate software engineer with over 9 years of experience in programming. Specializing in a wide range of technologies, with expertise in web and mobile development. Experienced in both frontend and backend development, with a strong foundation in various programming languages and frameworks.</p>
 </header>
 <br>
 <section>
