@@ -49,6 +49,8 @@
   <ul>
     <li>Git</li>
     <li>Composer</li>
+    <li>npm</li>
+    <li>Brew</li>
     <li>Theos</li>
     <li>Reverse Engineering</li>
   </ul>
