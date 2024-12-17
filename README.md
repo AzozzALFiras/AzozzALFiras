@@ -19,7 +19,9 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Bootstrap</li>
+    <li>Tailwind CSS</li>
     <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>jQuery</li>
     <li>React.js</li>
     <li>Angular</li>
@@ -36,6 +38,7 @@
     <li>MySQL</li>
     <li>SQL</li>
     <li>API</li>
+    <li>NoSql</li>
   </ul>
 
   <h4>Mobile Development:</h4>
