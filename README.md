@@ -49,11 +49,7 @@
     font-size: 14px;
     color: #7f8c8d;
   }
-  @media (max-width: 768px) {
-    .stats-container {
-      flex-direction: column;
-    }
-  }
+
 </style>
 </head>
 <body>
