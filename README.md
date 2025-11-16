@@ -51,7 +51,7 @@ Specializing in a wide range of technologies, with expertise in **web, mobile, a
 ## 📫 Connect with Me
 - [GitHub](https://github.com/AzozzALFiras)
 - [LinkedIn](https://www.linkedin.com/in/3zozz)
-- [Website](#https://dev.3zozz.com)
+- [Website](https://dev.3zozz.com)
 
 ---
 
