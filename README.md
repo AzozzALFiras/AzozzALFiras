@@ -11,18 +11,17 @@ Specializing in a wide range of technologies, with expertise in **web, mobile, a
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, TypeScript, jQuery
 - React.js, Angular, Next.js
-- Flutter
 
 ### Backend Development
 - PHP, Laravel, Livewire, Filament
-- Node.js, ASP.NET
+- Node.js
 - Go (Golang)
 - MySQL, PostgreSQL, NoSQL
 - RESTful APIs, GraphQL
 - SaaS Development, Cloud Architecture (AWS)
 
 ### Mobile Development
-- Objective-C, Swift, Flutter
+- Swift, SwiftUI
 
 ### Architecture & Design Patterns
 - DDD (Domain-Driven Design)
@@ -31,7 +30,6 @@ Specializing in a wide range of technologies, with expertise in **web, mobile, a
 
 ### Tools & Other Skills
 - Git, Composer, npm, Brew
-- Theos, Reverse Engineering
 - CI/CD, Docker, Kubernetes, AWS Services
 
 ---
@@ -51,9 +49,7 @@ Specializing in a wide range of technologies, with expertise in **web, mobile, a
 ## 📫 Connect with Me
 - [GitHub](https://github.com/AzozzALFiras)
 - [LinkedIn](https://www.linkedin.com/in/3zozz)
-- [Website](https://dev.3zozz.com)
-
 ---
 
 ## ⚡ Fun Fact
-I love building **secure and scalable applications**, exploring **cloud architectures**, and **experimenting with reverse engineering and mobile security**.
+I love building **secure and scalable applications** and exploring **cloud architectures**.
