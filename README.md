@@ -36,8 +36,8 @@ Specializing in a wide range of technologies, with expertise in **web, mobile, a
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzozzALFiras&hide=contribs&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=AzozzALFiras&hide=contribs&show_icons=true&theme=dark](https://github-readme-profile-alpha.vercel.app/api?username=AzozzALFiras&theme=dark))  
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark))
 
 ---
 
