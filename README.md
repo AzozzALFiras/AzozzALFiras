@@ -5,52 +5,98 @@ Specializing in a wide range of technologies, with expertise in **web, mobile, a
 
 ---
 
-## 🛠 Skills
+## Skills
 
-### Frontend Development
-- HTML, CSS, Bootstrap, Tailwind CSS
-- JavaScript, TypeScript, jQuery
-- React.js, Angular, Next.js
+<table>
+<tr></tr>
 
-### Backend Development
-- PHP, Laravel, Livewire, Filament
-- Node.js
-- Go (Golang)
-- MySQL, PostgreSQL, NoSQL
-- RESTful APIs, GraphQL
-- SaaS Development, Cloud Architecture (AWS)
+<tr>
+<td valign="top" width="33%">
 
-### Mobile Development
-- Swift, SwiftUI
+#### Backend
+`PHP` `Laravel` `Livewire` `Filament`  
+`Go (Golang)`  
+`Node.js`  
+`RESTful APIs` `GraphQL`  
+`SaaS Development`
 
-### Architecture & Design Patterns
-- DDD (Domain-Driven Design)
-- MVC, MVVM
-- Microservices
+</td>
+<td valign="top" width="33%">
 
-### Tools & Other Skills
-- Git, Composer, npm, Brew
-- CI/CD, Docker, Kubernetes, AWS Services
+#### Frontend
+`JavaScript` `TypeScript` `jQuery`  
+`React.js` `Next.js` `Angular`  
+`HTML` `CSS`  
+`Tailwind CSS` `Bootstrap`
+
+</td>
+<td valign="top" width="33%">
+
+#### Mobile
+`Swift` `SwiftUI`  
+`macOS` `iOS`
+
+</td>
+</tr>
+
+<tr></tr>
+
+<tr>
+<td valign="top" width="33%">
+
+#### Databases
+`PostgreSQL` `MySQL` `NoSQL`
+
+</td>
+<td valign="top" width="33%">
+
+#### Cloud & DevOps
+`AWS` `Docker` `Kubernetes`  
+`CI/CD` `Linux` `Nginx`
+
+</td>
+<td valign="top" width="33%">
+
+#### Architecture
+`Microservices` `DDD`  
+`MVC` `MVVM`  
+`Clean Architecture`
+
+</td>
+</tr>
+
+<tr></tr>
+
+<tr>
+<td colspan="3" align="center">
+
+#### Tools
+`Git` `Composer` `npm` `Homebrew`
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=AzozzALFiras&theme=dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=AzozzALFiras&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark&hide_border=true&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzozzALFiras&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AzozzALFiras&style=flat-square&color=333333)
+
+</div>
 
 ---
 
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AzozzALFiras)
+## Connect with Me
 
----
-
-## 📫 Connect with Me
-- [GitHub](https://github.com/AzozzALFiras)
-- [LinkedIn](https://www.linkedin.com/in/3zozz)
----
-
-## ⚡ Fun Fact
-I love building **secure and scalable applications** and exploring **cloud architectures**.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3zozz)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzozzALFiras)
