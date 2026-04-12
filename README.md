@@ -1,102 +1,138 @@
-# Azozz ALFiras
+<div align="center">
 
-**Passionate Software Engineer** with over **7 years of experience** in programming.  
-Specializing in a wide range of technologies, with expertise in **web, mobile, and backend development**. Experienced in **frontend, backend, cloud, and mobile technologies** with strong foundations in multiple frameworks and architectures.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Azozz+ALFiras;Software+Engineer+%7C+7%2B+Years" alt="Header" />
 
----
+<br>
 
-## Skills
+<p>
+<a href="https://www.linkedin.com/in/3zozz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/AzozzALFiras"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<table>
-<tr></tr>
+Passionate about building **secure**, **scalable**, and **well-architected** software systems.  
+From backend APIs to native mobile apps — I build things that work and last.
 
-<tr>
-<td valign="top" width="33%">
+</div>
 
-#### Backend
-`PHP` `Laravel` `Livewire` `Filament`  
-`Go (Golang)`  
-`Node.js`  
-`RESTful APIs` `GraphQL`  
-`SaaS Development`
+<br>
 
-</td>
-<td valign="top" width="33%">
+## ⎯⎯ Tech Stack
 
-#### Frontend
-`JavaScript` `TypeScript` `jQuery`  
-`React.js` `Next.js` `Angular`  
-`HTML` `CSS`  
-`Tailwind CSS` `Bootstrap`
+<details open>
+<summary><b>&nbsp;Backend & APIs</b></summary>
+<br>
 
-</td>
-<td valign="top" width="33%">
+| Technology | Experience | |
+|:-----------|:----------:|:--|
+| PHP | 7 years | `████████████████████` |
+| Laravel / Livewire / Filament | 7 years | `████████████████████` |
+| RESTful API Design | 6 years | `██████████████████░░` |
+| Node.js | 4 years | `████████████░░░░░░░░` |
+| Go (Golang) | 3 years | `█████████░░░░░░░░░░░` |
+| GraphQL | 2 years | `██████░░░░░░░░░░░░░░` |
 
-#### Mobile
-`Swift` `SwiftUI`  
-`macOS` `iOS`
+</details>
 
-</td>
-</tr>
+<details open>
+<summary><b>&nbsp;Databases</b></summary>
+<br>
 
-<tr></tr>
+| Technology | Experience | |
+|:-----------|:----------:|:--|
+| PostgreSQL | 7 years | `████████████████████` |
+| MySQL | 7 years | `████████████████████` |
+| Redis | 4 years | `████████████░░░░░░░░` |
+| NoSQL | 3 years | `█████████░░░░░░░░░░░` |
 
-<tr>
-<td valign="top" width="33%">
+</details>
 
-#### Databases
-`PostgreSQL` `MySQL` `NoSQL`
+<details open>
+<summary><b>&nbsp;Frontend</b></summary>
+<br>
 
-</td>
-<td valign="top" width="33%">
+| Technology | Experience | |
+|:-----------|:----------:|:--|
+| HTML / CSS | 7 years | `████████████████████` |
+| JavaScript / TypeScript | 5 years | `███████████████░░░░░` |
+| React.js / Next.js | 4 years | `████████████░░░░░░░░` |
+| Tailwind CSS / Bootstrap | 3 years | `█████████░░░░░░░░░░░` |
+| Angular | 2 years | `██████░░░░░░░░░░░░░░` |
 
-#### Cloud & DevOps
-`AWS` `Docker` `Kubernetes`  
-`CI/CD` `Linux` `Nginx`
+</details>
 
-</td>
-<td valign="top" width="33%">
+<details open>
+<summary><b>&nbsp;Mobile</b></summary>
+<br>
 
-#### Architecture
-`Microservices` `DDD`  
-`MVC` `MVVM`  
-`Clean Architecture`
+| Technology | Experience | |
+|:-----------|:----------:|:--|
+| Swift / SwiftUI | 3 years | `█████████░░░░░░░░░░░` |
+| Objective-C | 5 years | `███████████████░░░░░` |
+| macOS / iOS Apps | 3 years | `█████████░░░░░░░░░░░` |
 
-</td>
-</tr>
+</details>
 
-<tr></tr>
+<details open>
+<summary><b>&nbsp;Architecture & Patterns</b></summary>
+<br>
 
-<tr>
-<td colspan="3" align="center">
+| Methodology | Experience | |
+|:-----------|:----------:|:--|
+| MVC / MVVM / Clean Architecture | 5 years | `███████████████░░░░░` |
+| Microservices | 4 years | `████████████░░░░░░░░` |
+| SaaS Development | 4 years | `████████████░░░░░░░░` |
+| Domain-Driven Design (DDD) | 3 years | `█████████░░░░░░░░░░░` |
 
-#### Tools
-`Git` `Composer` `npm` `Homebrew`
+</details>
 
-</td>
-</tr>
+<details open>
+<summary><b>&nbsp;Cloud & DevOps</b></summary>
+<br>
 
-</table>
+| Technology | Experience | |
+|:-----------|:----------:|:--|
+| Linux Administration | 5 years | `███████████████░░░░░` |
+| Docker / Kubernetes | 4 years | `████████████░░░░░░░░` |
+| CI/CD Pipelines | 4 years | `████████████░░░░░░░░` |
+| AWS Services | 3 years | `█████████░░░░░░░░░░░` |
 
----
+</details>
 
-## GitHub Stats
+<details open>
+<summary><b>&nbsp;Tools</b></summary>
+<br>
+
+Git&ensp;·&ensp;Composer&ensp;·&ensp;npm&ensp;·&ensp;Homebrew&ensp;·&ensp;Nginx
+
+</details>
+
+<br>
+
+## ⎯⎯ GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=AzozzALFiras&theme=dark&hide_border=true)
+<img src="https://github-readme-profile-alpha.vercel.app/api?username=AzozzALFiras&theme=dark&hide_border=true" width="100%" />
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark&hide_border=true&langs_count=10)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzozzALFiras&theme=dark&hide_border=true)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzozzALFiras&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=10" width="48%" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzozzALFiras&theme=dark&hide_border=true&background=0d1117" width="48%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AzozzALFiras&style=flat-square&color=333333)
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AzozzALFiras&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AzozzALFiras&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## Connect with Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3zozz)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzozzALFiras)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=false&width=450&height=25&lines=Building+secure+and+scalable+systems+since+2018." />
+
+</div>
