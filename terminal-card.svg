@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title description">
-  <title id="title">Azozz ALFiras terminal profile</title>
-  <desc id="description">An ASCII portrait of Azozz ALFiras beside software engineering skills and contact details.</desc>
+  <title id="title">Azozz ALFiras — complex systems engineer and security researcher</title>
+  <desc id="description">An ASCII portrait beside complex systems engineering, solution architecture, security research, and technology expertise.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#090c10"/>
+      <stop offset="0.55" stop-color="#0a1019"/>
+      <stop offset="1" stop-color="#070a10"/>
     </linearGradient>
     <linearGradient id="portrait" x1="0" y1="0" x2="0.9" y2="1">
       <stop offset="0" stop-color="#f0f6fc"/>
@@ -15,6 +16,16 @@
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#58a6ff"/>
       <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <radialGradient id="portraitGlow" cx="68%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#1f6feb" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#010409" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="portraitFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1019" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#0a1019" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0a1019"/>
     </linearGradient>
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
       <path d="M0 3.5H4" stroke="#ffffff" stroke-opacity="0.018"/>
@@ -27,10 +38,14 @@
     </clipPath>
     <style>
       .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
-      .label { fill: #f0883e; font-size: 16px; font-weight: 650; }
-      .value { fill: #79c0ff; font-size: 16px; }
+      .eyebrow { fill: #58a6ff; font-size: 12px; font-weight: 700; letter-spacing: 2px; }
+      .heading { fill: #f0f6fc; font-size: 31px; font-weight: 750; letter-spacing: 0.5px; }
+      .label { fill: #8b949e; font-size: 13px; font-weight: 650; }
+      .value { fill: #c9d1d9; font-size: 15px; }
       .muted { fill: #8b949e; }
       .rule { stroke: #30363d; stroke-width: 1; }
+      .chip { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .chipText { fill: #c9d1d9; font-size: 13px; font-weight: 650; }
     </style>
   </defs>
 
@@ -45,10 +60,13 @@
     <text x="600" y="43" text-anchor="middle" class="mono muted" font-size="13">azozzalfiras: ~/profile</text>
     <rect x="15" y="60" width="1170" height="605" fill="url(#scanlines)"/>
 
-    <path d="M500 84V625" class="rule"/>
-    <path d="M38 625H476" stroke="url(#accent)" stroke-width="2" opacity="0.65"/>
+    <rect x="30" y="76" width="442" height="572" rx="16" fill="#090e16" stroke="#21262d"/>
+    <rect x="494" y="76" width="676" height="572" rx="16" fill="#0b111a" fill-opacity="0.74" stroke="#21262d"/>
+    <rect x="30" y="76" width="442" height="572" rx="16" fill="url(#portraitGlow)"/>
+    <path d="M50 96H178" stroke="url(#accent)" stroke-width="2" opacity="0.85"/>
 
-    <text x="28" y="82" xml:space="preserve" class="mono" font-size="9.1" font-weight="600" fill="url(#portrait)" opacity="0.92">
+    <g transform="translate(12 5)">
+    <text x="28" y="82" xml:space="preserve" class="mono" font-size="9.1" font-weight="600" fill="url(#portrait)" opacity="0.94">
       <tspan x="28" dy="0">.......                                . .--#@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
       <tspan x="28" dy="9.25">.....                                .. :+=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
       <tspan x="28" dy="9.25">.....                               .  -##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -108,69 +126,67 @@
       <tspan x="28" dy="9.25">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
       <tspan x="28" dy="9.25">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
     </text>
+    </g>
 
-    <text x="524" y="92" class="mono" font-size="19" font-weight="700" fill="#f0f6fc">azozzalfiras</text>
-    <text x="742" y="92" class="mono muted" font-size="14">--------------------------------------------</text>
+    <rect x="31" y="538" width="440" height="109" fill="url(#portraitFade)"/>
+    <text x="52" y="600" class="mono" font-size="22" font-weight="750" fill="#f0f6fc">Azozz ALFiras</text>
+    <text x="52" y="625" class="mono" font-size="13" fill="#79c0ff">@azozzalfiras</text>
+    <rect x="323" y="593" width="124" height="28" rx="14" fill="#1f6feb" fill-opacity="0.16" stroke="#1f6feb" stroke-opacity="0.6"/>
+    <circle cx="341" cy="607" r="4" fill="#58a6ff"/>
+    <text x="353" y="612" class="mono" font-size="11" fill="#c9d1d9">7+ YEARS</text>
 
     <g class="mono">
-      <text x="524" y="127" class="label">Role</text>
-      <text x="675" y="127" class="muted" font-size="16">................</text>
-      <text x="814" y="127" class="value">Software Engineer</text>
+      <text x="524" y="104" class="eyebrow" font-size="10.8" letter-spacing="1.2">COMPLEX SYSTEMS · SOLUTION ARCHITECTURE · SECURITY RESEARCH</text>
+      <text x="524" y="144" class="heading">Azozz ALFiras</text>
+      <text x="524" y="173" font-size="14.5" fill="#8b949e">Engineering complex systems and planning products end-to-end.</text>
+      <text x="524" y="196" font-size="14.5" fill="#8b949e">Architecture, security research, and delivery — beyond code.</text>
 
-      <text x="524" y="155" class="label">Experience</text>
-      <text x="675" y="155" class="muted" font-size="16">..........</text>
-      <text x="814" y="155" class="value">7+ years</text>
+      <path d="M524 218H1140" class="rule"/>
+      <text x="524" y="246" class="eyebrow">ENGINEERING ROLES</text>
 
-      <text x="524" y="183" class="label">Focus</text>
-      <text x="675" y="183" class="muted" font-size="16">..............</text>
-      <text x="814" y="183" class="value">Secure, scalable systems</text>
+      <g transform="translate(524 261)">
+        <rect width="196" height="70" rx="11" fill="#0d141f" stroke="#30363d"/>
+        <circle cx="18" cy="19" r="4" fill="#58a6ff"/>
+        <text x="31" y="23" font-size="11.5" font-weight="700" fill="#f0f6fc">SYSTEMS ENGINEER</text>
+        <text x="18" y="49" font-size="11.5" fill="#8b949e">Complex architectures</text>
 
-      <text x="524" y="211" class="label">Platforms</text>
-      <text x="675" y="211" class="muted" font-size="16">..........</text>
-      <text x="814" y="211" class="value">Backend, Web, iOS, macOS</text>
+        <rect x="206" width="196" height="70" rx="11" fill="#0d141f" stroke="#30363d"/>
+        <circle cx="224" cy="19" r="4" fill="#a371f7"/>
+        <text x="237" y="23" font-size="11.5" font-weight="700" fill="#f0f6fc">SOLUTION ARCHITECT</text>
+        <text x="224" y="49" font-size="11.5" fill="#8b949e">Projects end-to-end</text>
 
-      <text x="524" y="256" class="muted" font-size="15">- Languages &amp; Frameworks</text>
-      <path d="M758 251H1152" class="rule"/>
+        <rect x="412" width="204" height="70" rx="11" fill="#0d141f" stroke="#30363d"/>
+        <circle cx="430" cy="19" r="4" fill="#f0883e"/>
+        <text x="443" y="23" font-size="11.5" font-weight="700" fill="#f0f6fc">SECURITY RESEARCHER</text>
+        <text x="430" y="49" font-size="11.5" fill="#8b949e">Threats &amp; hardening</text>
+      </g>
 
-      <text x="540" y="289" class="label">Backend</text>
-      <text x="675" y="289" class="muted" font-size="16">............</text>
-      <text x="814" y="289" class="value">PHP, Laravel, Node.js, Go</text>
+      <path d="M524 352H1140" class="rule"/>
+      <text x="524" y="380" class="eyebrow">TECHNOLOGY LANDSCAPE</text>
 
-      <text x="540" y="317" class="label">Frontend</text>
-      <text x="675" y="317" class="muted" font-size="16">...........</text>
-      <text x="814" y="317" class="value">TypeScript, React, Next.js</text>
+      <text x="524" y="406" font-size="11.5" font-weight="700" fill="#f0883e">ARCHITECTURE</text>
+      <text x="665" y="406" font-size="12" fill="#c9d1d9">DDD · Microservices · Clean Architecture · SaaS · REST APIs</text>
 
-      <text x="540" y="345" class="label">Native</text>
-      <text x="675" y="345" class="muted" font-size="16">...............</text>
-      <text x="814" y="345" class="value">Swift, SwiftUI, Objective-C</text>
+      <text x="524" y="432" font-size="11.5" font-weight="700" fill="#f0883e">BACKEND &amp; APIs</text>
+      <text x="665" y="432" font-size="12" fill="#c9d1d9">PHP · Laravel · Livewire · Filament · Node.js · Go · GraphQL</text>
 
-      <text x="540" y="373" class="label">Data</text>
-      <text x="675" y="373" class="muted" font-size="16">.................</text>
-      <text x="814" y="373" class="value">PostgreSQL, MySQL, Redis</text>
+      <text x="524" y="458" font-size="11.5" font-weight="700" fill="#f0883e">FRONTEND</text>
+      <text x="665" y="458" font-size="12" fill="#c9d1d9">HTML/CSS · TypeScript · React · Next.js · Tailwind · Angular</text>
 
-      <text x="540" y="401" class="label">Cloud</text>
-      <text x="675" y="401" class="muted" font-size="16">................</text>
-      <text x="814" y="401" class="value">Docker, Kubernetes, AWS</text>
+      <text x="524" y="484" font-size="11.5" font-weight="700" fill="#f0883e">NATIVE</text>
+      <text x="665" y="484" font-size="12" fill="#c9d1d9">Swift · SwiftUI · Objective-C · iOS · macOS</text>
 
-      <text x="524" y="446" class="muted" font-size="15">- Contact</text>
-      <path d="M610 441H1152" class="rule"/>
+      <text x="524" y="510" font-size="11.5" font-weight="700" fill="#f0883e">DATA</text>
+      <text x="665" y="510" font-size="12" fill="#c9d1d9">PostgreSQL · MySQL · Redis · NoSQL</text>
 
-      <text x="540" y="479" class="label">GitHub</text>
-      <text x="675" y="479" class="muted" font-size="16">...............</text>
-      <text x="814" y="479" class="value">github.com/azozzalfiras</text>
+      <text x="524" y="536" font-size="11.5" font-weight="700" fill="#f0883e">CLOUD &amp; DEVOPS</text>
+      <text x="665" y="536" font-size="12" fill="#c9d1d9">Linux · Docker · Kubernetes · AWS · CI/CD · Nginx</text>
 
-      <text x="540" y="507" class="label">LinkedIn</text>
-      <text x="675" y="507" class="muted" font-size="16">............</text>
-      <text x="814" y="507" class="value">linkedin.com/in/3zozz</text>
-
-      <text x="524" y="552" class="muted" font-size="15">- Status</text>
-      <path d="M600 547H1152" class="rule"/>
-
-      <circle cx="546" cy="583" r="5" fill="#3fb950"/>
-      <text x="562" y="589" fill="#c9d1d9" font-size="16">Building things that work — and last.</text>
-      <text x="524" y="637" fill="#58a6ff" font-size="15">$</text>
-      <text x="545" y="637" fill="#c9d1d9" font-size="15">engineering --secure --scalable</text>
-      <rect x="846" y="624" width="9" height="17" fill="#58a6ff" opacity="0.9"/>
+      <path d="M524 550H1140" class="rule"/>
+      <text x="524" y="578" class="eyebrow">ENGINEERING PRINCIPLE</text>
+      <circle cx="529" cy="602" r="4" fill="#3fb950"/>
+      <text x="542" y="607" font-size="13.5" fill="#c9d1d9">Plan the system. Model the risks. Build what lasts.</text>
+      <text x="524" y="632" font-size="12" fill="#58a6ff">$ architect --complex-systems --secure-by-design</text>
     </g>
   </g>
 </svg>
